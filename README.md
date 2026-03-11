@@ -1,5 +1,7 @@
 # C HTTP Server with Thread Pool 🚀
 
+Nota: Este projeto foi desenvolvido como parte da disciplina de APC (Algoritmos e Programação de Computadores) da faculdade.
+
 Este é um servidor HTTP de alta performance escrito inteiramente em C. O projeto foi desenvolvido com foco em **escalabilidade horizontal dentro do processo**, utilizando a arquitetura de **Thread Pool** e o padrão Produtor-Consumidor para gerenciar múltiplas conexões concorrentes sem o overhead de criar uma nova thread para cada requisição.
 
 ## 🧠 Arquitetura e Conceitos Utilizados
